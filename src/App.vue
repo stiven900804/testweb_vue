@@ -22,7 +22,7 @@
       </keep-alive>
     </div>
     <div class="app-foot">
-      <p>© 2024 三剑客购物商城@陈重 copyright</p>
+      <p>© 2022 风云网上购物商城</p>
     </div>
     <this-dialog :is-show="isShowAbout" @on-close="hideDialog('isShowAbout')">
       <p>本平台主要销售电器类商品的销售。如果遇到问题，请联系平台开发者的微信codehome6，从而获取技术支持。</p>
